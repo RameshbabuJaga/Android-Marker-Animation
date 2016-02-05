@@ -1,5 +1,5 @@
 # Android-Marker-Animation
-Projects developed Using eclipse.
+Project developed Using eclipse.
 This project was recreated from [https://github.com/ddewaele/GoogleMapsV2WithActionBarSherlock] -Davy De Waele projects.
 
 See the Project screen shot for more info,
