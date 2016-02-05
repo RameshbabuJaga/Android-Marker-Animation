@@ -1,7 +1,3 @@
-# Guidance
-
-> Screen shot of marker animation play
-
 ## Marker animation 
  
  1. After all marker placed animation will play like below **Tap on Map and Place a marker**
