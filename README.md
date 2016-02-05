@@ -4,7 +4,8 @@
 
 ## Marker animation 
  
-![screen shot 2014-10-22 at 11 16 23 am](https://cloud.githubusercontent.com/assets/11292624/12844634/a2dab1ba-cc26-11e5-97a8-f22564db442c.png)
- 
-![screen shot 2014-10-22 at 11 16 23 am](https://cloud.githubusercontent.com/assets/11292624/12844650/c1e26c9c-cc26-11e5-8a42-b66925b1660e.png)
+ 1. After all marker placed animation will play like below **Tap on Map and Place a marker**
 
+<a href="http://gfycat.com/WeeGrizzledFruitbat">
+![2014-10-22 11_35_09](https://cloud.githubusercontent.com/assets/11292624/12846421/845b6764-cc32-11e5-860d-a06404ee4627.gif)
+</a>
