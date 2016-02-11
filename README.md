@@ -1,6 +1,6 @@
 ## Marker animation 
  
- 1. This project was modified from [https://github.com/ddewaele/GoogleMapsV2WithActionBarSherlock] -Davy De Waele projects.
+ 1. This project was slightly modified from [https://github.com/ddewaele/GoogleMapsV2WithActionBarSherlock] -Davy De Waele projects.
 
  2. After all marker placed animation will play like below **Tap on Map and Place a marker**
 
